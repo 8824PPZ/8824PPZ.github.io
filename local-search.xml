@@ -17,11 +17,11 @@
   
   
   <entry>
-    <title>测试文章</title>
-    <link href="/2023/07/05/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <url>/2023/07/05/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <title>不为谁而作的歌</title>
+    <link href="/2023/03/24/%E4%B8%8D%E4%B8%BA%E8%B0%81%E8%80%8C%E4%BD%9C%E7%9A%84%E6%AD%8C/"/>
+    <url>/2023/03/24/%E4%B8%8D%E4%B8%BA%E8%B0%81%E8%80%8C%E4%BD%9C%E7%9A%84%E6%AD%8C/</url>
     
-    <content type="html"><![CDATA[<p>测试测试测试测试测试</p>]]></content>
+    <content type="html"><![CDATA[<p>阳光总是耀眼<br>大懒虫却还没出现<br>手机还充着电<br>消息厚厚堆了一叠<br>（蹦蹦跳跳，格叽格）<br>（格叽格叽格叽，蹦蹦跳跳）</p><p>丹色红茶暖热气<br>伴着闹钟一起和你睡醒<br>我为你买票的那一天<br>为你唱歌的那瞬间<br>那熟悉的笑颜<br>我怎么看不见<br>断开的电话线</p><p>我好想再拨一遍<br>没想到我梦里你还是会出现<br>我好想再吻一遍<br>感觉是甜还是有咸？</p><p>还记得你，那夏天初见回忆<br>黄风衣，旧手机<br>脸上还戴着羞气<br>好不容易<br>找到能聊的话题<br>故事的开头开始慢慢写进我的诗里</p><p>爱很迷离，我始终不能猜疑<br>风渐起，勾涟漪<br>心开始产生距离<br>有点问题<br>就是我的孩子气</p><p>你到最后还是和我说了那句，拜拜</p>]]></content>
     
     
     
@@ -30,11 +30,11 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2023/07/05/hello-world/"/>
-    <url>/2023/07/05/hello-world/</url>
+    <title>平淡故事</title>
+    <link href="/2022/10/23/%E5%B9%B3%E6%B7%A1%E6%95%85%E4%BA%8B/"/>
+    <url>/2022/10/23/%E5%B9%B3%E6%B7%A1%E6%95%85%E4%BA%8B/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>阴天，雨凉，烦闷，不安，最后习惯<br>浮躁的欲望<br>逐渐被淡忘</p><p>上班，下班，核酸，吃饭，最后平躺<br>简单的循环<br>算法不难</p><p>周六的时候夜漫长<br>凝结成了霜<br>梦醒的时候<br>才发现电影散场</p><p>我有多想多想多想看一眼<br>那剧本尾页美好上演<br>那幸福的线<br>我有多想多想再看几遍<br>所有情节难以忘却<br>凌晨里<br>故事在续写</p>]]></content>
     
     
     
